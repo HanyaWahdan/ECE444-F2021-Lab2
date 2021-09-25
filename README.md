@@ -1,2 +1,5 @@
 # ECE444-F2021-Lab2
-This is the repository for ECE444 Lab 2.
+
+Name: Hanya Wahdan
+This repo is a clone of https://github.com/miguelgrinberg/flasky
+
